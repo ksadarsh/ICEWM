@@ -1,2 +1,3 @@
 # ICEWM
-IceWM collection from various
+IceWM collection for various platforms
+
